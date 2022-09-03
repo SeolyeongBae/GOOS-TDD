@@ -21,11 +21,13 @@
 
 다음과 같은 화면이 뜬다
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8eb528d7-5cb6-49ca-98fa-269e0f3e6469/Untitled.png)
+![image](https://user-images.githubusercontent.com/80435616/188276016-274c92a3-7c50-4422-bfc8-2c73a19aeee7.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86ffd977-5ef6-4d47-9d91-57eec6d31c0a/Untitled.png)
+![image](https://user-images.githubusercontent.com/80435616/188276042-ee5f03f5-e42d-4d5f-a615-2fdfe55b173f.png)
+![image](https://user-images.githubusercontent.com/80435616/188276052-e00e1bb9-9be1-4493-add2-8860081d829a.png)
 
-다른 터미널에서 redis-cli를 쓰고 띄우고 publish foo “hi minsu”를 쳐 보면, 위 화면에 전달됨을 확인할 수 있다.
+
+다른 터미널에서 redis-cli를 쳐서 띄우고 publish foo “hi minsu”를 쳐 보면, 위 화면에 전달됨을 확인할 수 있다.
 
 ### cypress setting
 
@@ -39,7 +41,7 @@ cypress real world app → 가장 공신력 있는 참고사이트
 
 뿅
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42318cbb-9440-4b93-9e73-0ea321560a6d/Untitled.png)
+![image](https://user-images.githubusercontent.com/80435616/188276072-50ae4595-2758-4287-a85e-1cc9d9bd925a.png)
 
 E2E Testing → electron 추천
 
@@ -75,7 +77,7 @@ cypress 폴더 안에 있는 tsconfig도 생성해주자!
 
 npx cypress open → sniper.cy.ts를 해서 다음과 같이 나온다면 성공~
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3d81ddb-b2f9-4ec9-bff4-e2d5828646df/Untitled.png)
+![image](https://user-images.githubusercontent.com/80435616/188276079-d3d4bcff-36e5-4649-8536-246bc0e8809c.png)
 
 89페이지~ 내용들 한번 체크
 
@@ -95,7 +97,7 @@ npx cypress open → sniper.cy.ts를 해서 다음과 같이 나온다면 성공
 
 보통 코드를 짜면
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de0b802a-c6e6-480b-83bb-b193a4fa11dd/Untitled.png)
+![image](https://user-images.githubusercontent.com/80435616/188276086-ec858c2e-05d4-422a-859c-7f713db773ac.png)
 
 빨간거부터 짜는데 그러지 말고 기본부터 하세요!! 의 예제다.
 
