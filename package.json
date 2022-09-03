@@ -1,0 +1,19 @@
+{
+  "name": "tdd-cypress-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "tsc-watch src/main.ts -t es6 --outDir app/js --onSuccess \"http-server app -p 3000\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.14",
+    "cypress": "^10.7.0",
+    "http-server": "^14.1.1",
+    "ts-loader": "^9.3.1",
+    "tsc-watch": "^5.0.3",
+    "typescript": "^4.8.2"
+  }
+}
